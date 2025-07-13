@@ -99,7 +99,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Data Carpentry** datacarpentry/shell-genomics](https://github.com/datacarpentry/shell-genomics) | [website](https://datacarpentry.org/shell-genomics)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/Shell-for-bioinformatics](https://github.com/hbctraining/Intro-to-shell-flipped) | [website](https://hbctraining.github.io/Shell-for-bioinformatics/)
-- [**Ted Laderas** laderast/bash_for_bioinformatics](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
+- [**Ted Laderas** laderast/bash_for_dnanexus](https://github.com/laderast/bash_for_bioinformatics) | [website](https://laderast.github.io/bash_for_bioinformatics/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/unix-first-steps-training](https://github.com/sib-swiss/unix-first-steps-training)
 - [**Software Carpentry** swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) | [website](http://swcarpentry.github.io/shell-novice/)
 - [**Sundeep Agarwal** learnbyexample/cli_text_processing_coreutils](https://github.com/learnbyexample/cli_text_processing_coreutils) | [website](https://learnbyexample.github.io/cli_text_processing_coreutils/)
@@ -427,7 +427,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
 - [**BiGCaT, Department of Translational Genomics** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course) | [website](https://sib-swiss.github.io/SPARQL_course/)
 
 ### LaTeX
 
@@ -642,6 +642,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Steven M. Van Belleghem** StevenVB12/stevenvb12.github.io](https://github.com/StevenVB12/stevenvb12.github.io)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/CPANG19](https://github.com/gtpb/CPANG19) | [website](https://gtpb.github.io/CPANG19/)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/biodiversity-bioinformatics](https://github.com/sib-swiss/biodiversity-bioinformatics) | [website](https://sib-swiss.github.io/biodiversity-bioinformatics/)
 
 ### Epigenetics
 
@@ -688,7 +689,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 ### Multiomics
 
-- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.github.io/MultiAssayWorkshop)
+- [**Waldron Lab at the CUNY SPH** waldronlab/MultiAssayWorkshop](https://github.com/waldronlab/MultiAssayWorkshop) | [website](https://waldronlab.io/MultiAssayWorkshop/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/multiomics-data-analysis-and-integration-training](https://github.com/sib-swiss/multiomics-data-analysis-and-integration-training)
 
 ### Spatial transcriptomics
@@ -822,7 +823,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Berkeley Data 100** DS-100/textbook](https://github.com/DS-100/textbook/) | [website](https://learningds.org)
 - [**Edwin Thoen** EdwinTh/ADSwR](https://github.com/edwinth/ADSwR) | [website](https://edwinth.github.io/ADSwR/)
 - [**tidyverse** tidyverse/datascience-box](https://github.com/tidyverse/datascience-box) | [website](https://datasciencebox.org)
-- [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io)
+- [**Modern Data Science with R** mdsr-book/mdsr-book.github.io](https://github.com/mdsr-book/mdsr-book.github.io) | [website](http://mdsr-book.github.io)
 - [**Lino Galiana** linogaliana/python-datascientist](https://github.com/linogaliana/python-datascientist) | [website](https://pythonds.linogaliana.fr)
 - [**The Turing Way** the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way) | [website](https://the-turing-way.org)
 - [**Michael Pyrcz** GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython)
