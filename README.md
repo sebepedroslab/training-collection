@@ -34,6 +34,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Rust](#rust)
   - [SPARQL](#sparql)
   - [LaTeX](#latex)
+  - [OpenMP](#openmp)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
   - [Galaxy](#galaxy)
@@ -75,6 +76,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [Statistics](#statistics)
   - [Machine learning](#machine-learning)
   - [Artificial intelligence](#artificial-intelligence)
+  - [Large language models](#large-language-models)
 - [Others](#others)
   - [General](#general)
 
@@ -119,6 +121,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Firas Zemzem** Zemzemfiras1/Mastering_Linux_Tutorials](https://github.com/Zemzemfiras1/Mastering_Linux_Tutorials)
 - [**Jeroen Janssens** jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) | [website](https://datascienceatthecommandline.com)
 - [**ELIXIR Estonia** ELIXIREstonia/2024-10-23-shell-novice](https://github.com/ELIXIREstonia/2024-10-23-shell-novice) | [website](https://elixirestonia.github.io/2024-10-23-shell-novice/)
+- [**MolSSI Education** MolSSI-Education/getting-started-computational-chemistry](https://github.com/MolSSI-Education/getting-started-computational-chemistry) | [website](https://molssi-education.github.io/getting-started-computational-chemistry/)
 
 ### Python
 
@@ -177,10 +180,11 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**MolSSI Education** MolSSI-Education/python_scripting_cms](https://github.com/MolSSI-Education/python_scripting_cms) | [website](https://molssi-education.github.io/python_scripting_cms)
 - [**Jean de Dieu Nyandwi** Nyandwi/PythonBasics](https://github.com/Nyandwi/PythonBasics)
 - [**Scott Reed** scottmreed/molecular_informatics](https://github.com/scottmreed/molecular_informatics)
-- [**Scott Reed** scottmreed/Code_withGPT_tutorial](https://github.com/scottmreed/Code_withGPT_tutorial)
 - [**Dan Chitwood** DanChitwood/plants_and_python](https://github.com/DanChitwood/plants_and_python) | [website](https://danchitwood.github.io/plants_and_python)
 - [**Firas Zemzem** Zemzemfiras1/PythonIN-86400sec](https://github.com/Zemzemfiras1/PythonIN-86400sec) | [website](https://zemzemtrainingorg.github.io/PythonIN-86400sec/)
 - [**ELIXIR Estonia** ELIXIREstonia/2025-02-11-Python](https://github.com/ELIXIREstonia/2025-02-11-Python)
+- [**MolSSI Education** MolSSI-Education/oop_and_design_patterns](https://github.com/MolSSI-Education/oop_and_design_patterns) | [website](https://molssi-education.github.io/oop_and_design_patterns/)
+- [**MolSSI Education** MolSSI-Education/python-package-best-practices](https://github.com/MolSSI-Education/python-package-best-practices) | [website](http://education.molssi.org/python-package-best-practices/)
 
 ### R
 
@@ -439,6 +443,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Fred Hutch Data Science Lab** fhdsl/Overleaf_and_LaTeX_for_Scientific_Articles](https://github.com/fhdsl/Overleaf_and_LaTeX_for_Scientific_Articles) | [website](https://hutchdatascience.org/Overleaf_and_LaTeX_for_Scientific_Articles/)
 
+### OpenMP
+
+- [**MolSSI Education** MolSSI-Education/parallel-programming](https://github.com/MolSSI-Education/parallel-programming) | [website](https://molssi-education.github.io/parallel-programming/)
+
 ## Computational methods and pipelines
 
 
@@ -535,7 +543,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
 - [**rapidspeciation** rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)
 - [**Fred Hutch Data Science Lab** fhdsl/Choosing_Genomics_Tools](https://github.com/fhdsl/Choosing_Genomics_Tools) | [website](http://hutchdatascience.org/Choosing_Genomics_Tools/)
-- [**Raphael Mourad** raphaelmourad/LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training)
 
 ### Next generation sequencing
 
@@ -921,12 +928,17 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Artificial intelligence
 
 - [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
-- [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
 - [**Fred Hutch Data Science Lab** fhdsl/AI_for_Decision_Makers](https://github.com/fhdsl/AI_for_Decision_Makers) | [website](https://hutchdatascience.org/AI_for_Decision_Makers/)
-- [**Fred Hutch Data Science Lab** fhdsl/AI_for_Efficient_Programming](https://github.com/fhdsl/AI_for_Efficient_Programming) | [website](https://hutchdatascience.org/AI_for_Efficient_Programming/)
 - [**BiotrAIn** biotrain-latam/BiotrAIn-pilot-course](https://github.com/biotrain-latam/BiotrAIn-pilot-course) | [website](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 - [**VIB Training & Conferences Program** vib-tcp/introduction-to-generative-ai](https://github.com/vib-tcp/introduction-to-generative-ai) | [website](https://liascript.github.io/course/#1)
 - [**VIB Training & Conferences Program** vib-tcp/genAI_4_training-trainingMaterial](https://github.com/vib-tcp/genAI_4_training-trainingMaterial)
+
+### Large language models
+
+- [**Maxime Labonne** mlabonne/llm-course](https://github.com/mlabonne/llm-course) | [website](https://mlabonne.github.io/blog/)
+- [**Fred Hutch Data Science Lab** fhdsl/AI_for_Efficient_Programming](https://github.com/fhdsl/AI_for_Efficient_Programming) | [website](https://hutchdatascience.org/AI_for_Efficient_Programming/)
+- [**Raphael Mourad** raphaelmourad/LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/llm-biodata-training](https://github.com/sib-swiss/llm-biodata-training) | [website](https://sib-swiss.github.io/llm-biodata-training)
 
 ## Others
 
