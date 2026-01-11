@@ -239,7 +239,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Norm Matloff** matloff/fasteR](https://github.com/matloff/fasteR)
 - [**Melbourne Bioinformatics** melbournebioinformatics/r-intro-biologists](https://github.com/melbournebioinformatics/r-intro-biologists)
 - [**ModernDive** moderndive/ModernDive_book](https://github.com/moderndive/ModernDive_book) | [website](https://www.moderndive.com)
-- [**Nathaniel Phillips** ndphillips/ThePiratesGuideToR](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://bookdown.org/ndphillips/YaRrr/)
+- [**Nathaniel Phillips** ndphillips/ThePiratesGuideToR](https://github.com/ndphillips/ThePiratesGuideToR) | [website](https://nathanieldphillips-yarrr.share.connect.posit.cloud)
 - [**Openscapes** Openscapes/quarto-website-tutorial](https://github.com/Openscapes/quarto-website-tutorial) | [website](https://openscapes.github.io/quarto-website-tutorial)
 - [**Oscar Baruffa** oscarbaruffa/BigBookofR](https://github.com/oscarbaruffa/BigBookofR) | [website](https://www.bigbookofr.com)
 - [**rstudio::conf(2022)** rstudio-conf-2022/art-from-code](https://github.com/rstudio-conf-2022/art-from-code) | [website](https://art-from-code.netlify.app)
@@ -348,7 +348,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Rohan Alexander** RohanAlexander/tswd](https://github.com/RohanAlexander/telling_stories/) | [website](https://rohanalexander.github.io/telling_stories/)
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
-- [**Sophie Lee** sophie-a-lee/intro-rstudio-mhclg](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
+- [**Sophie Lee** sophie-a-lee/intro-rstudio-mhclg](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://sophie-a-lee.github.io/intro-rstudio-mhclg/)
 - [**Stephen Turner** stephenturner/workshops](https://github.com/stephenturner/workshops) | [website](http://stephenturner.github.io/workshops)
 - [**Fred Hutch Data Science Lab** fhdsl/Tools_for_Reproducible_Workflows_in_R](https://github.com/fhdsl/Tools_for_Reproducible_Workflows_in_R) | [website](https://hutchdatascience.org/Tools_for_Reproducible_Workflows_in_R/)
 - [**Aditya Dahiya** Aditya-Dahiya/ggplot2book3e](https://github.com/Aditya-Dahiya/ggplot2book3e/)
@@ -807,7 +807,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
 - [**Data Carpentry** datacarpentry/spreadsheet-ecology-lesson](https://github.com/datacarpentry/spreadsheet-ecology-lesson) | [website](https://datacarpentry.org/spreadsheet-ecology-lesson)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
-- [**VIB Technologies: Training material and software projects** vib-tcp/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course)
+- [**VIB Technologies: Training material and software projects** vib-tcp/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course) | [website](https://liascript.github.io/course/#1)
 - [**Utrecht University** UtrechtUniversity/dataprivacyhandbook](https://github.com/utrechtuniversity/dataprivacyhandbook) | [website](https://utrechtuniversity.github.io/dataprivacyhandbook/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-dmp-dm-practices](https://github.com/NBISweden/module-dmp-dm-practices/) | [website](https://nbisweden.github.io/module-dmp-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-data-publication-dm-practices](https://github.com/NBISweden/module-data-publication-dm-practices/) | [website](https://nbisweden.github.io/module-data-publication-dm-practices/)
@@ -925,6 +925,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
 - [**Norm Matloff** matloff/fastStat](https://github.com/matloff/fastStat)
 - [**Keith McNulty** keithmcnulty/regression-handbook-2nd-edition](https://github.com/keithmcnulty/regression-handbook-2nd-edition)
+- [**robinsonlabuzh** robinsonlabuzh/pasta](https://github.com/robinsonlabuzh/pasta) | [website](https://robinsonlabuzh.github.io/pasta)
 
 ### Machine learning
 
