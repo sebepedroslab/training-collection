@@ -655,6 +655,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/2023-march-training](https://github.com/alexslemonade/2023-march-training/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/single-cell-python-training](https://github.com/sib-swiss/single-cell-python-training/) | [website](https://sib-swiss.github.io/single-cell-python-training/)
 - [**The Carpentries Incubator** carpentries-incubator/bioc-scrnaseq](https://github.com/carpentries-incubator/bioc-scrnaseq) | [website](https://carpentries-incubator.github.io/bioc-scrnaseq/)
+- [**Laboratory of Genomics and Bioinformatics** bioinfocz/Course-on-scRNA-seq-data-analysis](https://github.com/bioinfocz/Course-on-scRNA-seq-data-analysis) | [website](https://bioinfocz.github.io/Course-on-scRNA-seq-data-analysis/)
 
 ### Variant analysis
 
@@ -823,6 +824,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Fred Hutch Data Science Lab** fhdsl/NIH_Data_Sharing](https://github.com/fhdsl/NIH_Data_Sharing) | [website](https://hutchdatascience.org/NIH_Data_Sharing/)
 - [**feichtingerm** feichtingerm/rdmlifesciunivie](https://github.com/feichtingerm/rdmlifesciunivie)
 - [**OBOAcademy** OBOAcademy/obook](https://github.com/OBOAcademy/obook) | [website](https://oboacademy.github.io/obook/)
+- [**NFDI4BIOIMAGE** NFDI4BIOIMAGE/training](https://github.com/NFDI4BIOIMAGE/training) | [website](https://nfdi4bioimage.github.io/training)
 
 ### FAIR data
 
@@ -917,14 +919,14 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**OpenIntro** OpenIntroStat/ims](https://github.com/OpenIntroStat/ims/) | [website](https://openintrostat.github.io/ims/)
 - [**Allen Downey** AllenDowney/ThinkBayes](https://github.com/AllenDowney/ThinkBayes)
 - [**Måns Thulin** mthulin/mswr-book](https://github.com/mthulin/mswr-book)
-- [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://bookdown.org/content/4857/)
+- [**A. Solomon Kurz** ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed](https://github.com/ASKurz/Statistical_Rethinking_with_brms_ggplot2_and_the_tidyverse_2_ed) | [website](https://solomon.quarto.pub/sr2/)
 - [**Allen Downey** AllenDowney/ThinkStats2](https://github.com/AllenDowney/ThinkStats2) | [website](http://allendowney.github.io/ThinkStats2/)
 - [**Daniel Kaplan** dtkaplan/Lessons-in-statistical-thinking](https://github.com/dtkaplan/Lessons-in-statistical-thinking)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
 - [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
 - [**Norm Matloff** matloff/fastStat](https://github.com/matloff/fastStat)
-- [**Keith McNulty** keithmcnulty/regression-handbook-2nd-edition](https://github.com/keithmcnulty/regression-handbook-2nd-edition)
+- [**Keith McNulty** keithmcnulty/regression-handbook-2nd-edition](https://github.com/keithmcnulty/regression-handbook-2nd-edition) | [website](https://peopleanalytics-regression-book.org)
 - [**robinsonlabuzh** robinsonlabuzh/pasta](https://github.com/robinsonlabuzh/pasta) | [website](https://robinsonlabuzh.github.io/pasta)
 
 ### Machine learning
