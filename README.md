@@ -856,6 +856,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**jhudsl** jhudsl/Reproducibility_in_Cancer_Informatics](https://github.com/jhudsl/Reproducibility_in_Cancer_Informatics) | [website](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - [**jhudsl** jhudsl/Documentation_and_Usability](https://github.com/jhudsl/Documentation_and_Usability) | [website](https://jhudatascience.org/Documentation_and_Usability/)
 - [**Alex's Lemonade Stand Foundation** AlexsLemonade/reproducible-research](https://github.com/AlexsLemonade/reproducible-research)
+- [**Reusable and Reproducible Healthcare Simulations in Python and R** pythonhealthdatascience/des_rap_book](https://github.com/pythonhealthdatascience/des_rap_book) | [website](https://pythonhealthdatascience.github.io/des_rap_book/)
 
 ### Knowledge graph
 
