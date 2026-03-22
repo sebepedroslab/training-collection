@@ -380,6 +380,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/INR_2024](https://github.com/bioinformaticsdotca/inr_2024)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/advanced-r-training](https://github.com/sib-swiss/advanced-r-training)
 - [**tidyomics** tidyomics/tidy-ranges-tutorial](https://github.com/tidyomics/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
+- [**ELIXIR Estonia** ELIXIREstonia/2026-03-05-R-basic](https://github.com/ELIXIREstonia/2026-03-05-R-basic)
 
 ### Quarto
 
@@ -634,7 +635,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/BBS230B_2023](https://github.com/hbctraining/BBS230B_2023) | [website](https://hbctraining.github.io/BBS230B_2023/)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq-cb321](https://github.com/hbctraining/rnaseq-cb321)
 - [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/RNA-seq-CB321qc_2022](https://github.com/hbctraining/RNA-seq-CB321qc_2022)
-- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq_overview](https://github.com/hbctraining/rnaseq_overview)
+- [**Teaching materials at the Harvard Chan Bioinformatics Core** hbctraining/rnaseq_overview](https://github.com/hbctraining/rnaseq_overview) | [website](https://hbctraining.github.io/rnaseq_overview)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis](https://github.com/ucdavis-bioinformatics-training/2023-June-RNA-Seq-Analysis)
 - [**bioinformatics.ca** bioinformaticsdotca/RNA_2023](https://github.com/bioinformaticsdotca/RNA_2023)
 - [**bioinformatics.ca** bioinformaticsdotca/PNA_2023](https://github.com/bioinformaticsdotca/PNA_2023)
