@@ -295,7 +295,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**RStudio Education** rstudio-education/stat545](https://github.com/rstudio-education/stat545) | [website](https://stat545.com)
 - [**nullranges** tidyomics/tidy-ranges-tutorial](https://github.com/nullranges/tidy-ranges-tutorial) | [website](https://tidyomics.github.io/tidy-ranges-tutorial/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-epigenomics-RTDs](https://github.com/NBISweden/workshop-epigenomics-RTDs/) | [website](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/)
-- [**Library Data Services** UNC-Libraries-data/beginR](https://github.com/UNC-Libraries-data/R-Open-Labs) | [website](https://tarheels.live/beginr/)
+- [**UNC Library Data Services** UNC-Libraries-data/beginR](https://github.com/UNC-Libraries-data/R-Open-Labs) | [website](https://tarheels.live/beginr/)
 - [**Greg Wilson** gvwilson/tidynomicon](https://github.com/gvwilson/tidynomicon) | [website](http://tidynomicon.github.io/tidynomicon)
 - [**Vince Carey** vjcitn/BiocPyInterop](https://github.com/vjcitn/BiocPyInterop) | [website](https://vjcitn.github.io/BiocPyInterop/)
 - [**Bioinformatics, Rockefeller University** RockefellerUniversity/RU_VisualizingGenomicsData](https://github.com/RockefellerUniversity/RU_VisualizingGenomicsData)
