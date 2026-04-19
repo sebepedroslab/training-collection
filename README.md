@@ -585,6 +585,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/CPANG22](https://github.com/gtpb/cpang22)
 - [**bioinformatics.ca** bioinformaticsdotca/Genomic_Med_2017](https://github.com/bioinformaticsdotca/genomic_med_2017)
 - [**IB-ULFRI** IB-ULFRI/instructor-notes](https://github.com/ib-ulfri/instructor-notes)
+- [**nour0810** nour0810/pcr-learning-lab](https://github.com/nour0810/pcr-learning-lab) | [website](https://nour0810.github.io/pcr-learning-lab/)
 
 ### Next generation sequencing
 
@@ -607,6 +608,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/OMPRN_2024](https://github.com/bioinformaticsdotca/omprn_2024)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB18F](https://github.com/gtpb/elb18f) | [website](https://gtpb.github.io/ELB18F/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB18S](https://github.com/gtpb/elb18s) | [website](https://gtpb.github.io/ELB18S/)
+- [**zemZemTrainingOrg** zemZemTrainingOrg/NGS-Dash-website](https://github.com/zemZemTrainingOrg/NGS-Dash-website) | [website](https://zemzemtrainingorg.github.io/NGS-Dash-website/)
+- [**zemZemTrainingOrg** zemZemTrainingOrg/NGS-Toolkit-e-book](https://github.com/zemZemTrainingOrg/NGS-Toolkit-e-book) | [website](https://zemzemtrainingorg.github.io/NGS-Toolkit-e-book/00-Introduction/00-HomePage.html)
 
 ### Transcriptomics
 
@@ -784,6 +787,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bioinformatics.ca** bioinformaticsdotca/AMB_2025](https://github.com/bioinformaticsdotca/AMB_2025)
 - [**bioinformatics.ca** bioinformaticsdotca/BMB_2025](https://github.com/bioinformaticsdotca/BMB_2025)
 - [**bioinformatics.ca** bioinformaticsdotca/MIG_2025](https://github.com/bioinformaticsdotca/mig_2025)
+- [**nour0810** nour0810/Antibiotic-Learning-Laboratory](https://github.com/nour0810/Antibiotic-Learning-Laboratory) | [website](https://nour0810.github.io/Antibiotic-Learning-Laboratory/)
 
 ### Multiomics
 
